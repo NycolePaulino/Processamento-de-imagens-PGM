@@ -5,7 +5,7 @@ Código criado em C++
 Adquirir conhecimentos de manipulação de imagens em formato de matrizes implementando funcionalidades que geram novas imagens a partir de imagens lidas de arquivos-texto em formato PGM.
 
 ## Descrição 
-O programa desenvolvido no projeto deve tem um menu de opções que permite ler a imagem de entrada na opção 1 em formato PGM e, para cada funcionalidade implementada, ter outras opções em que, uma vez selecionada, gera um arquivo-texto de mesmo formato PGM.
+O programa desenvolvido no projeto tem um menu de opções que permite ler a imagem de entrada na opção 1 em formato PGM e, para cada funcionalidade implementada, ter outras opções em que, uma vez selecionada, gera um arquivo-texto de mesmo formato PGM.
 
 ## Operações 
 -escurecer ou clarear imagem por um fator informado pelo usuário;
